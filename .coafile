@@ -1,0 +1,5 @@
+[yaml]
+bears = YAMLLintBear
+yamllint_config = .yamllint
+ignore =
+  .tox/**,
