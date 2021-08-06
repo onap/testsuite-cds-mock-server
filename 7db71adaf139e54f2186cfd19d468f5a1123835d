@@ -1,0 +1,7 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Code-Review+2: Jozsef Csongvai <jozsef.csongvai@bell.ca>
+Submitted-by: Jozsef Csongvai <jozsef.csongvai@bell.ca>
+Submitted-at: Fri, 06 Aug 2021 13:31:44 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/testsuite/cds-mock-server/+/122683
+Project: testsuite/cds-mock-server
+Branch: refs/heads/master
